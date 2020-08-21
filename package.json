@@ -1,0 +1,22 @@
+{
+  "name": "@marcsaleiko/flynav",
+  "version": "0.0.1",
+  "description": "Display a flying navigation.",
+  "browser": "src/Flynav.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcsaleiko/flynav.git"
+  },
+  "author": "Marc Saleiko",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/marcsaleiko/flynav/issues"
+  },
+  "homepage": "https://github.com/marcsaleiko/flynav#readme",
+  "dependencies": {
+    "jquery": "^2.2.4"
+  }
+}
