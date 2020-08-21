@@ -1,5 +1,5 @@
 /*!
- * Flynav v0.0.1
+ * Flynav v0.1.0
  * Display a flying navigation.
  * MIT License
  */
